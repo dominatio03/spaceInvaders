@@ -1,0 +1,235 @@
+!SESSION 2024-08-21 08:33:32.148 -----------------------------------------------
+eclipse.buildId=4.23.0.I20220308-0310
+java.version=17.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data C:\Users\vipke\Downloads\SpaceInvadersFin\src -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2024-08-21 08:33:34.497
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-08-21 08:33:34.497
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7bbd76b8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2248d140,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-08-21 08:33:34.497
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@37b238da,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1c792107,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-08-21 08:33:36.777
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\vipke'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-08-21 08:39:04.011 -----------------------------------------------
+eclipse.buildId=4.23.0.I20220308-0310
+java.version=17.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2024-08-21 08:39:11.654
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-08-21 08:39:11.654
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2890e479,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6eb00cbe,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-08-21 08:39:11.654
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@74e4be21,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4d174189,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-08-21 08:39:14.852
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\vipke'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.jsweet.plugin 1 0 2024-08-21 08:41:11.404
+!MESSAGE JSweet: full build...
+
+!ENTRY org.jsweet.plugin 1 0 2024-08-21 08:41:11.405
+!MESSAGE source dirs: [/JSweetExample/src]
+
+!ENTRY org.jsweet.plugin 1 0 2024-08-21 08:41:11.407
+!MESSAGE include: Main.java
+
+!ENTRY org.jsweet.plugin 1 0 2024-08-21 08:41:11.408
+!MESSAGE include: Person.java
+
+!ENTRY org.jsweet.plugin 1 0 2024-08-21 08:41:11.409
+!MESSAGE include: security/Base64.java
+
+!ENTRY org.jsweet.plugin 1 0 2024-08-21 08:41:11.409
+!MESSAGE include: security/RC4.java
+
+!ENTRY org.jsweet.plugin 1 0 2024-08-21 08:41:11.409
+!MESSAGE init classpath, jdkHome: null
+
+!ENTRY org.jsweet.plugin 1 0 2024-08-21 08:41:11.457
+!MESSAGE compiling with classpath: C:\Users\vipke\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208\jre\lib\jrt-fs.jar;C:\Users\vipke\Downloads\SpaceInvadersFin\src\JSweetExample\src;C:\Users\vipke\Downloads\SpaceInvadersFin\src\JSweetExample\lib\jsweet-core-6.1.0.jar;
+
+!ENTRY org.jsweet.plugin 1 0 2024-08-21 08:41:11.463
+!MESSAGE creating transpiler with configuration file: C:\Users\vipke\Downloads\JSweetExample\JSweetExample\jsweetconfig.json
+
+!ENTRY org.jsweet.plugin 1 0 2024-08-21 08:41:11.519
+!MESSAGE created JSweet transpiler: workingDir=C:\Users\vipke\Downloads\JSweetExample\JSweetExample\.jsweet
+tsOutputDir=C:\Users\vipke\Downloads\JSweetExample\JSweetExample\.generated
+jsOutputDir=C:\Users\vipke\Downloads\JSweetExample\JSweetExample\js
+classPath=C:\Windows\system32\.\jsweet_extension;C:\Users\vipke\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208\jre\lib\jrt-fs.jar;C:\Users\vipke\Downloads\SpaceInvadersFin\src\JSweetExample\src;C:\Users\vipke\Downloads\SpaceInvadersFin\src\JSweetExample\lib\jsweet-core-6.1.0.jar;
+generateJsFiles=true
+tscWatchMode=false
+tsDefDirs=[]
+moduleKind=none
+ecmaTargertVersion=ES5
+bundle=false
+encoding=null
+noRootDirectories=false
+ignoreAssertions=true
+ignoreJavaFileNameError=false
+generateDeclarations=false
+declarationsOutputDir=null
+generateDefinitions=true
+jsLibFiles=[]
+
+!ENTRY org.jsweet.plugin 1 0 2024-08-21 08:41:11.519
+!MESSAGE compiling [C:\Users\vipke\Downloads\JSweetExample\JSweetExample\src\Main.java, C:\Users\vipke\Downloads\JSweetExample\JSweetExample\src\Person.java, C:\Users\vipke\Downloads\JSweetExample\JSweetExample\src\security\Base64.java, C:\Users\vipke\Downloads\JSweetExample\JSweetExample\src\security\RC4.java]
+
+!ENTRY org.jsweet.plugin 4 0 2024-08-21 08:41:16.728
+!MESSAGE cannot compile
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "String.length()" because "<parameter1>" is null
+	at com.sun.tools.javac.file.Locations.getPathEntries(Locations.java:149)
+	at com.sun.tools.javac.file.Locations.getPathEntries(Locations.java:134)
+	at com.sun.tools.javac.file.Locations.access$000(Locations.java:71)
+	at com.sun.tools.javac.file.Locations$BootClassPathLocationHandler.computePath(Locations.java:617)
+	at com.sun.tools.javac.file.Locations$BootClassPathLocationHandler.lazy(Locations.java:643)
+	at com.sun.tools.javac.file.Locations$BootClassPathLocationHandler.getLocation(Locations.java:577)
+	at com.sun.tools.javac.file.Locations.getLocation(Locations.java:678)
+	at com.sun.tools.javac.file.JavacFileManager.getLocation(JavacFileManager.java:803)
+	at com.sun.tools.javac.file.JavacFileManager.list(JavacFileManager.java:617)
+	at com.sun.tools.javac.jvm.ClassReader.fillIn(ClassReader.java:2750)
+	at com.sun.tools.javac.jvm.ClassReader.complete(ClassReader.java:2446)
+	at com.sun.tools.javac.jvm.ClassReader.access$000(ClassReader.java:76)
+	at com.sun.tools.javac.jvm.ClassReader$1.complete(ClassReader.java:240)
+	at com.sun.tools.javac.code.Symbol.complete(Symbol.java:574)
+	at com.sun.tools.javac.comp.Enter.visitTopLevel(Enter.java:300)
+	at com.sun.tools.javac.tree.JCTree$JCCompilationUnit.accept(JCTree.java:518)
+	at com.sun.tools.javac.comp.Enter.classEnter(Enter.java:258)
+	at com.sun.tools.javac.comp.Enter.classEnter(Enter.java:272)
+	at com.sun.tools.javac.comp.Enter.complete(Enter.java:486)
+	at com.sun.tools.javac.comp.Enter.main(Enter.java:471)
+	at com.sun.tools.javac.main.JavaCompiler.enterTrees(JavaCompiler.java:982)
+	at org.jsweet.transpiler.JSweetTranspiler.setupCompiler(JSweetTranspiler.java:742)
+	at org.jsweet.transpiler.JSweetTranspiler.java2ts(JSweetTranspiler.java:882)
+	at org.jsweet.transpiler.JSweetTranspiler.transpile(JSweetTranspiler.java:835)
+	at org.jsweet.plugin.builder.JSweetBuilder.transpileFiles(JSweetBuilder.java:543)
+	at org.jsweet.plugin.builder.JSweetBuilder.fullBuild(JSweetBuilder.java:586)
+	at org.jsweet.plugin.builder.JSweetBuilder.build(JSweetBuilder.java:488)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:860)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:232)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:281)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:334)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:337)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:392)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:417)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:161)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:255)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.jsweet.plugin 1 0 2024-08-21 08:41:16.746
+!MESSAGE forcing favorite static members: jsweet.lang.Globals.*;jsweet.util.Lang.*;def.dom.Globals.*;def.jquery.Globals.*;def.underscore.Globals.*
+
+!ENTRY org.eclipse.ui.ide 4 0 2024-08-21 08:43:05.643
+!MESSAGE Could not import project located at C:\Users\vipke\Downloads\SpaceInvadersFin\src
+!STACK 0
+org.eclipse.ui.internal.wizards.datatransfer.CouldNotImportProjectException: Could not import project located at C:\Users\vipke\Downloads\SpaceInvadersFin\src
+	at org.eclipse.ui.internal.wizards.datatransfer.SmartImportJob.toExistingOrNewProject(SmartImportJob.java:565)
+	at org.eclipse.ui.internal.wizards.datatransfer.SmartImportJob.run(SmartImportJob.java:252)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.internal.resources.ResourceException: Invalid project description.
+	at org.eclipse.core.internal.resources.Project.checkDescription(Project.java:173)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:57)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:267)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:253)
+	at org.eclipse.ui.internal.wizards.datatransfer.SmartImportJob.createOrImportProject(SmartImportJob.java:604)
+	at org.eclipse.ui.internal.wizards.datatransfer.SmartImportJob.toExistingOrNewProject(SmartImportJob.java:552)
+	... 2 more
+
+!ENTRY org.eclipse.ui.ide 4 0 2024-08-21 08:55:39.614
+!MESSAGE Could not import project located at C:\Users\vipke\Downloads\SpaceInvadersFin\src
+!STACK 0
+org.eclipse.ui.internal.wizards.datatransfer.CouldNotImportProjectException: Could not import project located at C:\Users\vipke\Downloads\SpaceInvadersFin\src
+	at org.eclipse.ui.internal.wizards.datatransfer.SmartImportJob.toExistingOrNewProject(SmartImportJob.java:565)
+	at org.eclipse.ui.internal.wizards.datatransfer.SmartImportJob.run(SmartImportJob.java:252)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.internal.resources.ResourceException: Invalid project description.
+	at org.eclipse.core.internal.resources.Project.checkDescription(Project.java:173)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:57)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:267)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:253)
+	at org.eclipse.ui.internal.wizards.datatransfer.SmartImportJob.createOrImportProject(SmartImportJob.java:604)
+	at org.eclipse.ui.internal.wizards.datatransfer.SmartImportJob.toExistingOrNewProject(SmartImportJob.java:552)
+	... 2 more
